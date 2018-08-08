@@ -1,0 +1,12 @@
+Dev: 
+ url: "https://mtoms-og20g.mev.atos.net/ctn"
+Stage: 
+ url: "https://www.atos.net/ctn"
+Prod:
+ url: "https://www.google.com"
+menu-left:
+ menu-count: "20" #YAML doesn't allow tabs; it requires spaces.
+ menu-start: "Security"
+ menu-end: "Notifications And News"
+ menu-click1: "Assignments"
+ menu-click2: "Assignment Positions"

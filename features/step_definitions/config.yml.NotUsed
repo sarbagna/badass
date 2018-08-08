@@ -1,0 +1,19 @@
+menu-left:
+	menu-count: 20
+	menu-start: Security
+	menu-end: Notifications And News
+
+mydev:
+  gms:
+    url: "https://mtoms-og20g.mev.atos.net/ctn"
+  vportal:
+    url: "https://mtesi-og20g.mev.atos.net/vportal/login"
+
+Dev:
+url: "https://mtoms-og20g.mev.atos.net/ctn"
+
+Stage:
+url: "gamma.google.com"
+
+Prod:
+url: "google.com"
